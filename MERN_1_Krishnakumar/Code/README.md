@@ -1,4 +1,4 @@
-# mern-rbac
+# Role based access - MERN Stack
 
 Role-based authentication example using a MERN stack (MongoDB, Express, React, Node).
 
